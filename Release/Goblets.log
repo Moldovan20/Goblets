@@ -1,0 +1,225 @@
+﻿  Goblets.cpp
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(25,15): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(62,43): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(62,32): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(63,43): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(63,32): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(64,43): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(64,32): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(65,46): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(65,32): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(122,66): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(122,59): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(123,66): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(123,59): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(124,66): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(124,59): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(126,66): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(126,59): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(136,71): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(136,64): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(146,71): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(146,64): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(156,71): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(156,64): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(166,71): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(166,64): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(176,71): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(176,64): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(190,59): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(190,48): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(192,59): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(192,48): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(194,59): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(194,48): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(209,55): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(209,44): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(218,55): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(218,44): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(227,55): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(227,44): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(241,62): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(241,48): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(247,62): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(247,48): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(254,55): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(254,44): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(255,55): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(255,44): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(263,55): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(263,44): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(264,55): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(264,44): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(279,62): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(279,48): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(285,62): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(285,48): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(291,55): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(291,44): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(292,55): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(292,44): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(299,55): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(299,44): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(300,55): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(300,44): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(315,62): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(315,48): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(321,62): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(321,48): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(328,55): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(328,44): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(329,55): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(329,44): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(336,55): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(336,44): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(337,55): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Goblets\Goblets\Goblets.cpp(337,44): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  Génération de code en cours
+  Previous IPDB not found, fall back to full compilation.
+  All 106 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Fin de la génération du code
+  Goblets.vcxproj -> C:\Users\Moldovan\source\repos\Goblets\Release\Goblets.exe
